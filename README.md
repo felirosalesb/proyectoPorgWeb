@@ -1,2 +1,2 @@
-# proyecto banda tropikal de boyenar
+# proyectoProg
 Repositorio Proyecto Programacion Web
